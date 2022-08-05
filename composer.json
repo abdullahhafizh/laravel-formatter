@@ -4,7 +4,6 @@
     "description": "A formatting library that converts data output between XML, CSV, JSON, TXT, YAML and a few others.",
     "keywords": ["laravel", "formatter", "data", "convert", "csv", "xml", "yaml"],
     "homepage": "http://github.com/abdllhhafizh/laravel-formatter",
-    "version": "1.0.0",
     "require": {
         "php": "^7.2|^8.0",
         "league/csv": "~9.0",
