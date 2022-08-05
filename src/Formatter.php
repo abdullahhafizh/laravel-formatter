@@ -3,7 +3,7 @@
 namespace Hafizh\Formatter;
 
 use InvalidArgumentException;
-use Hafizh\Formatter\Formatter as Formatter;
+// use Hafizh\Formatter\Formatter as Formatter;
 use Hafizh\Formatter\Parsers\ArrayParser;
 use Hafizh\Formatter\Parsers\CsvParser;
 use Hafizh\Formatter\Parsers\JsonParser;
