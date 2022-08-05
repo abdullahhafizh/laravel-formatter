@@ -5,7 +5,7 @@
     "keywords": ["laravel", "formatter", "data", "convert", "csv", "xml", "yaml"],
     "homepage": "http://github.com/abdllhhafizh/laravel-formatter",
     "require": {
-        "php": "^7.2|^8.0",
+        "php": "^8.0",
         "league/csv": "~9.0",
         "mustangostang/spyc": "~0.6",
         "illuminate/support": "^6.0"
