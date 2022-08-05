@@ -1,8 +1,10 @@
-<?php namespace SoapBox\Formatter\Test\Parsers;
+<?php
 
-use SoapBox\Formatter\Parsers\CsvParser;
-use SoapBox\Formatter\Parsers\Parser;
-use SoapBox\Formatter\Test\TestCase;
+namespace Hafizh\Formatter\Test\Parsers;
+
+use Hafizh\Formatter\Parsers\CsvParser;
+use Hafizh\Formatter\Parsers\Parser;
+use Hafizh\Formatter\Test\TestCase;
 
 class CsvParserDelemiterTest extends TestCase
 {

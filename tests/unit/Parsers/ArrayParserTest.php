@@ -1,8 +1,10 @@
-<?php namespace SoapBox\Formatter\Test\Parsers;
+<?php
 
-use SoapBox\Formatter\Parsers\ArrayParser;
-use SoapBox\Formatter\Parsers\Parser;
-use SoapBox\Formatter\Test\TestCase;
+namespace Hafizh\Formatter\Test\Parsers;
+
+use Hafizh\Formatter\Parsers\ArrayParser;
+use Hafizh\Formatter\Parsers\Parser;
+use Hafizh\Formatter\Test\TestCase;
 use stdClass;
 
 class ArrayParserTest extends TestCase

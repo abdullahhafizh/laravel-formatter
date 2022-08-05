@@ -15,7 +15,7 @@ Changelog
 Formatter Bundle
 ================
 
-[![Build Status](https://travis-ci.org/SoapBox/laravel-formatter.svg?branch=master)](https://travis-ci.org/SoapBox/laravel-formatter)
+[![Build Status](https://travis-ci.org/abdullahhafizh/laravel-formatter.svg?branch=master)](https://travis-ci.org/abdullahhafizh/laravel-formatter)
 
 A formatter package that will help you to easily convert between various formats such as XML, JSON, CSV, etc...
 
@@ -28,7 +28,7 @@ See Parsers and Formats to see supported input / output formats.
 Through command line:
 
 ```bash
-composer require soapbox/laravel-formatter
+composer require abdullahhafizh/laravel-formatter
 ```
 
 Through composer.json:
@@ -36,7 +36,7 @@ Through composer.json:
 ```json
 {
   "require": {
-    "soapbox/laravel-formatter": "2.x"
+    "abdullahhafizh/laravel-formatter": "2.x"
   }
 }
 
@@ -63,7 +63,7 @@ All of the following are formats that are supported for output.
 __Including The Formatter__
 
 ```php
-use SoapBox\Formatter\Formatter;
+use Hafizh\Formatter\Formatter;
 ```
 
 __Supported Types__

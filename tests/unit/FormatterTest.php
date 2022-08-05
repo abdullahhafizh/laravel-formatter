@@ -1,6 +1,8 @@
-<?php namespace SoapBox\Formatter\Test;
+<?php
 
-use SoapBox\Formatter\Formatter;
+namespace Hafizh\Formatter\Test;
+
+use Hafizh\Formatter\Formatter;
 
 class FormatterTest extends TestCase
 {

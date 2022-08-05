@@ -1,8 +1,10 @@
-<?php namespace SoapBox\Formatter\Test\Parsers;
+<?php
 
-use SoapBox\Formatter\Parsers\JsonParser;
-use SoapBox\Formatter\Parsers\Parser;
-use SoapBox\Formatter\Test\TestCase;
+namespace Hafizh\Formatter\Test\Parsers;
+
+use Hafizh\Formatter\Parsers\JsonParser;
+use Hafizh\Formatter\Parsers\Parser;
+use Hafizh\Formatter\Test\TestCase;
 
 class JsonParserTest extends TestCase
 {

@@ -1,4 +1,6 @@
-<?php namespace SoapBox\Formatter;
+<?php
+
+namespace Hafizh\Formatter;
 
 use Illuminate\Support\Arr;
 

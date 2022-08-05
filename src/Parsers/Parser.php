@@ -1,7 +1,9 @@
-<?php namespace SoapBox\Formatter\Parsers;
+<?php
+
+namespace Hafizh\Formatter\Parsers;
 
 use Illuminate\Support\Str;
-use SoapBox\Formatter\ArrayHelpers;
+use Hafizh\Formatter\ArrayHelpers;
 use Spyc;
 
 /**
@@ -152,11 +154,9 @@ abstract class Parser
 
     /**
      * Ported from laravel-formatter
-     * https://github.com/SoapBox/laravel-formatter
+     * https://github.com/abdullahhafizh/laravel-formatter
      *
      * Return a csv representation of the data stored in the parser
-     * @author  Daniel Berry <daniel@danielberry.me>
-     * @license MIT License (see LICENSE.readme included in the bundle)
      *
      * @return string An csv string representing the encapsulated data
      */

@@ -1,8 +1,10 @@
-<?php namespace SoapBox\Formatter\Test\Parsers;
+<?php
 
-use SoapBox\Formatter\Parsers\Parser;
-use SoapBox\Formatter\Parsers\XmlParser;
-use SoapBox\Formatter\Test\TestCase;
+namespace Hafizh\Formatter\Test\Parsers;
+
+use Hafizh\Formatter\Parsers\Parser;
+use Hafizh\Formatter\Parsers\XmlParser;
+use Hafizh\Formatter\Test\TestCase;
 
 class XmlParserTest extends TestCase
 {
